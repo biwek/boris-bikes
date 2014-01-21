@@ -8,12 +8,8 @@ class Van
 
 
 	# take broken bikes
-	def take_broken_bikes
+	def take_broken_bikes(broken_bikes)
 	end
 
-	# # take fixed bike to station
-	# def take_fixed_bikes
-
-	# end
 
 end
