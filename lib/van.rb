@@ -6,8 +6,14 @@ class Van
 		self.capacity = options.fetch(:capacity, DEFAULT_CAPACITY)
 	end
 
-	# move broken bikes
 
-	# take fixed bike to station
+	# take broken bikes
+	def take_broken_bikes
+	end
+
+	# # take fixed bike to station
+	# def take_fixed_bikes
+
+	# end
 
 end
