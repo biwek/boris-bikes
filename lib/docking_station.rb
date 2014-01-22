@@ -4,7 +4,7 @@ class DockingStation
 
 	include BikeContainer
 
-	DEFAULT_CAPACITY = 10
+	# DEFAULT_CAPACITY = 10
 
 	def initialize(options = {})
 		# self.capacity is calling the capacity=() method
